@@ -20,7 +20,6 @@ import 'package:maelstorm/feature/user/domain/use_case/validate_code_use_case.da
 import 'package:maelstorm/feature/user/presentation/bloc/user_bloc.dart';
 import 'package:maelstorm/injection_container.dart';
 import 'package:maelstorm/mocks/mock.dart';
-import 'mocks/mock.dart';
 
 class TestInitializer extends InjectionContainer {
   TestInitializer({required super.getIt});
